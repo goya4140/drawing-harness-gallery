@@ -605,7 +605,7 @@
     "title": "CIKT: A Collaborative and Iterative Knowledge Tracing Framework with Large Language Models",
     "original": "images/101/original.png",
     "sol": "images/101/sol.png",
-    "astra": null
+    "astra": "images/101/astra.png"
   },
   {
     "number": "102",
@@ -613,7 +613,7 @@
     "title": "Scientific Paper Retrieval with LLM-Guided Semantic-Based Ranking",
     "original": "images/102/original.png",
     "sol": "images/102/sol.png",
-    "astra": null
+    "astra": "images/102/astra.png"
   },
   {
     "number": "103",
@@ -621,7 +621,7 @@
     "title": "Text Detoxification: Data Efficiency, Semantic Preservation and Model Generalization",
     "original": "images/103/original.png",
     "sol": "images/103/sol.png",
-    "astra": null
+    "astra": "images/103/astra.png"
   },
   {
     "number": "104",
@@ -629,7 +629,7 @@
     "title": "A Reasoner for Real-World Event Detection: Scaling Reinforcement Learning via Adaptive Perplexity-Aware Sampling Strategy",
     "original": "images/104/original.png",
     "sol": "images/104/sol.png",
-    "astra": null
+    "astra": "images/104/astra.png"
   },
   {
     "number": "105",
@@ -637,7 +637,7 @@
     "title": "Select to Know: An Internal-External Knowledge Self-Selection Framework for Domain-Specific Question Answering",
     "original": "images/105/original.png",
     "sol": "images/105/sol.png",
-    "astra": null
+    "astra": "images/105/astra.png"
   },
   {
     "number": "106",
@@ -645,7 +645,7 @@
     "title": "CESRec: Constructing Pseudo Interactions for Sequential Recommendation via Conversational Feedback",
     "original": "images/106/original.png",
     "sol": "images/106/sol.png",
-    "astra": null
+    "astra": "images/106/astra.png"
   },
   {
     "number": "107",
@@ -653,7 +653,7 @@
     "title": "MUSE: MCTS-Driven Red Teaming Framework for Enhanced Multi-Turn Dialogue Safety in Large Language Models",
     "original": "images/107/original.png",
     "sol": "images/107/sol.png",
-    "astra": null
+    "astra": "images/107/astra.png"
   },
   {
     "number": "108",
@@ -661,7 +661,7 @@
     "title": "SeMob: Semantic Synthesis for Dynamic Urban Mobility Prediction",
     "original": "images/108/original.png",
     "sol": "images/108/sol.png",
-    "astra": null
+    "astra": "images/108/astra.png"
   },
   {
     "number": "109",
@@ -669,7 +669,7 @@
     "title": "V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction",
     "original": "images/109/original.png",
     "sol": "images/109/sol.png",
-    "astra": null
+    "astra": "images/109/astra.png"
   },
   {
     "number": "110",
@@ -677,7 +677,7 @@
     "title": "EDM: Efficient Deep Feature Matching",
     "original": "images/110/original.png",
     "sol": "images/110/sol.png",
-    "astra": null
+    "astra": "images/110/astra.png"
   },
   {
     "number": "111",
@@ -685,7 +685,7 @@
     "title": "Efficient Input-level Backdoor Defense on Text-to-Image Synthesis via Neuron Activation Variation",
     "original": "images/111/original.png",
     "sol": "images/111/sol.png",
-    "astra": null
+    "astra": "images/111/astra.png"
   },
   {
     "number": "112",
@@ -693,7 +693,7 @@
     "title": "FuXi-RTM: A Physics-Guided Prediction Framework with Radiative Transfer Modeling",
     "original": "images/112/original.png",
     "sol": "images/112/sol.png",
-    "astra": null
+    "astra": "images/112/astra.png"
   },
   {
     "number": "113",
@@ -701,7 +701,7 @@
     "title": "Understanding Co-speech Gestures in-the-wild",
     "original": "images/113/original.png",
     "sol": "images/113/sol.png",
-    "astra": null
+    "astra": "images/113/astra.png"
   },
   {
     "number": "114",
@@ -709,7 +709,7 @@
     "title": "Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates",
     "original": "images/114/original.png",
     "sol": "images/114/sol.png",
-    "astra": null
+    "astra": "images/114/astra.png"
   },
   {
     "number": "115",
@@ -717,7 +717,7 @@
     "title": "CARL: Causality-guided Architecture Representation Learning for an Interpretable Performance Predictor",
     "original": "images/115/original.png",
     "sol": "images/115/sol.png",
-    "astra": null
+    "astra": "images/115/astra.png"
   },
   {
     "number": "116",
@@ -725,7 +725,7 @@
     "title": "Unlearning the Noisy Correspondence Makes CLIP More Robust",
     "original": "images/116/original.png",
     "sol": "images/116/sol.png",
-    "astra": null
+    "astra": "images/116/astra.png"
   },
   {
     "number": "117",
@@ -733,7 +733,7 @@
     "title": "Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data",
     "original": "images/117/original.png",
     "sol": "images/117/sol.png",
-    "astra": null
+    "astra": "images/117/astra.png"
   },
   {
     "number": "118",
@@ -741,7 +741,7 @@
     "title": "On-Device Diffusion Transformer Policy for Efficient Robot Manipulation",
     "original": "images/118/original.png",
     "sol": "images/118/sol.png",
-    "astra": null
+    "astra": "images/118/astra.png"
   },
   {
     "number": "119",
@@ -749,7 +749,7 @@
     "title": "MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh",
     "original": "images/119/original.png",
     "sol": "images/119/sol.png",
-    "astra": null
+    "astra": "images/119/astra.png"
   },
   {
     "number": "120",
@@ -757,7 +757,7 @@
     "title": "Adaptive Dual Uncertainty Optimization: Boosting Monocular 3D Object Detection under Test-Time Shifts",
     "original": "images/120/original.png",
     "sol": "images/120/sol.png",
-    "astra": null
+    "astra": "images/120/astra.png"
   },
   {
     "number": "121",
@@ -765,7 +765,7 @@
     "title": "GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models",
     "original": "images/121/original.png",
     "sol": "images/121/sol.png",
-    "astra": null
+    "astra": "images/121/astra.png"
   },
   {
     "number": "122",
@@ -773,7 +773,7 @@
     "title": "Solving Inverse Problems with Model Mismatch using Untrained Neural Networks within Model-based Architectures",
     "original": "images/122/original.png",
     "sol": "images/122/sol.png",
-    "astra": null
+    "astra": "images/122/astra.png"
   },
   {
     "number": "123",
@@ -781,7 +781,7 @@
     "title": "Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models",
     "original": "images/123/original.png",
     "sol": "images/123/sol.png",
-    "astra": null
+    "astra": "images/123/astra.png"
   },
   {
     "number": "124",
@@ -789,7 +789,7 @@
     "title": "Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution",
     "original": "images/124/original.png",
     "sol": "images/124/sol.png",
-    "astra": null
+    "astra": "images/124/astra.png"
   },
   {
     "number": "125",
@@ -797,7 +797,7 @@
     "title": "Atomas: Hierarchical Adaptive Alignment on Molecule-Text for Unified Molecule Understanding and Generation",
     "original": "images/125/original.png",
     "sol": "images/125/sol.png",
-    "astra": null
+    "astra": "images/125/astra.png"
   },
   {
     "number": "126",
@@ -805,7 +805,7 @@
     "title": "Population Transformer: Learning Population-level Representations of Neural Activity",
     "original": "images/126/original.png",
     "sol": "images/126/sol.png",
-    "astra": null
+    "astra": "images/126/astra.png"
   },
   {
     "number": "127",
@@ -813,7 +813,7 @@
     "title": "Learning Long Range Dependencies on Graphs via Random Walks",
     "original": "images/127/original.png",
     "sol": "images/127/sol.png",
-    "astra": null
+    "astra": "images/127/astra.png"
   },
   {
     "number": "128",
@@ -821,7 +821,7 @@
     "title": "Data Shapley in One Training Run",
     "original": "images/128/original.png",
     "sol": "images/128/sol.png",
-    "astra": null
+    "astra": "images/128/astra.png"
   },
   {
     "number": "129",
@@ -829,7 +829,7 @@
     "title": "MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection",
     "original": "images/129/original.png",
     "sol": "images/129/sol.png",
-    "astra": null
+    "astra": "images/129/astra.png"
   },
   {
     "number": "130",
@@ -837,7 +837,7 @@
     "title": "Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence",
     "original": "images/130/original.png",
     "sol": "images/130/sol.png",
-    "astra": null
+    "astra": "images/130/astra.png"
   },
   {
     "number": "131",
@@ -845,7 +845,7 @@
     "title": "System 1.x: Learning to Balance Fast and Slow Planning with Language Models",
     "original": "images/131/original.png",
     "sol": "images/131/sol.png",
-    "astra": null
+    "astra": "images/131/astra.png"
   },
   {
     "number": "132",
@@ -853,7 +853,7 @@
     "title": "MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequences",
     "original": "images/132/original.png",
     "sol": "images/132/sol.png",
-    "astra": null
+    "astra": "images/132/astra.png"
   },
   {
     "number": "133",
@@ -861,7 +861,7 @@
     "title": "CL-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems",
     "original": "images/133/original.png",
     "sol": "images/133/sol.png",
-    "astra": null
+    "astra": "images/133/astra.png"
   },
   {
     "number": "134",
@@ -869,7 +869,7 @@
     "title": "SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding",
     "original": "images/134/original.png",
     "sol": "images/134/sol.png",
-    "astra": null
+    "astra": "images/134/astra.png"
   },
   {
     "number": "135",
@@ -877,7 +877,7 @@
     "title": "TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval",
     "original": "images/135/original.png",
     "sol": "images/135/sol.png",
-    "astra": null
+    "astra": "images/135/astra.png"
   },
   {
     "number": "136",
@@ -885,7 +885,7 @@
     "title": "LLaMA-Omni: Seamless Speech Interaction with Large Language Models",
     "original": "images/136/original.png",
     "sol": "images/136/sol.png",
-    "astra": null
+    "astra": "images/136/astra.png"
   },
   {
     "number": "137",
@@ -893,7 +893,7 @@
     "title": "Timer-XL: Long-Context Transformers for Unified Time Series Forecasting",
     "original": "images/137/original.png",
     "sol": "images/137/sol.png",
-    "astra": null
+    "astra": "images/137/astra.png"
   },
   {
     "number": "138",
@@ -901,7 +901,7 @@
     "title": "DEPT: Decoupled Embeddings for Pre-training Language Models",
     "original": "images/138/original.png",
     "sol": "images/138/sol.png",
-    "astra": null
+    "astra": "images/138/astra.png"
   },
   {
     "number": "139",
@@ -909,7 +909,7 @@
     "title": "CR-CTC: Consistency regularization on CTC for improved speech recognition",
     "original": "images/139/original.png",
     "sol": "images/139/sol.png",
-    "astra": null
+    "astra": "images/139/astra.png"
   },
   {
     "number": "140",
@@ -917,7 +917,7 @@
     "title": "Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series",
     "original": "images/140/original.png",
     "sol": "images/140/sol.png",
-    "astra": null
+    "astra": "images/140/astra.png"
   },
   {
     "number": "141",
@@ -925,7 +925,7 @@
     "title": "Multimodal Situational Safety",
     "original": "images/141/original.png",
     "sol": "images/141/sol.png",
-    "astra": null
+    "astra": "images/141/astra.png"
   },
   {
     "number": "142",
@@ -933,7 +933,7 @@
     "title": "IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation",
     "original": "images/142/original.png",
     "sol": "images/142/sol.png",
-    "astra": null
+    "astra": "images/142/astra.png"
   },
   {
     "number": "143",
@@ -941,7 +941,7 @@
     "title": "CSA: Data-efficient Mapping of Unimodal Features to Multimodal Features",
     "original": "images/143/original.png",
     "sol": "images/143/sol.png",
-    "astra": null
+    "astra": "images/143/astra.png"
   },
   {
     "number": "144",
@@ -949,7 +949,7 @@
     "title": "MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization",
     "original": "images/144/original.png",
     "sol": "images/144/sol.png",
-    "astra": null
+    "astra": "images/144/astra.png"
   },
   {
     "number": "145",
@@ -957,7 +957,7 @@
     "title": "From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions",
     "original": "images/145/original.png",
     "sol": "images/145/sol.png",
-    "astra": null
+    "astra": "images/145/astra.png"
   },
   {
     "number": "146",
@@ -965,7 +965,7 @@
     "title": "Hierarchical Uncertainty Estimation for Learning-based Registration in Neuroimaging",
     "original": "images/146/original.png",
     "sol": "images/146/sol.png",
-    "astra": null
+    "astra": "images/146/astra.png"
   },
   {
     "number": "147",
@@ -973,7 +973,7 @@
     "title": "GETS: Ensemble Temperature Scaling for Calibration in Graph Neural Networks",
     "original": "images/147/original.png",
     "sol": "images/147/sol.png",
-    "astra": null
+    "astra": "images/147/astra.png"
   },
   {
     "number": "148",
@@ -981,7 +981,7 @@
     "title": "MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models",
     "original": "images/148/original.png",
     "sol": "images/148/sol.png",
-    "astra": null
+    "astra": "images/148/astra.png"
   },
   {
     "number": "149",
@@ -989,7 +989,7 @@
     "title": "GeSubNet: Gene Interaction Inference for Disease Subtype Network Generation",
     "original": "images/149/original.png",
     "sol": "images/149/sol.png",
-    "astra": null
+    "astra": "images/149/astra.png"
   },
   {
     "number": "150",
@@ -997,7 +997,7 @@
     "title": "LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch",
     "original": "images/150/original.png",
     "sol": "images/150/sol.png",
-    "astra": null
+    "astra": "images/150/astra.png"
   },
   {
     "number": "151",
@@ -1005,7 +1005,7 @@
     "title": "REBIND: Enhancing Ground-state Molecular Conformation Prediction via Force-Based Graph Rewiring",
     "original": "images/151/original.png",
     "sol": "images/151/sol.png",
-    "astra": null
+    "astra": "images/151/astra.png"
   },
   {
     "number": "152",
@@ -1013,7 +1013,7 @@
     "title": "Retrieval Augmented Diffusion Model for Structure-informed Antibody Design and Optimization",
     "original": "images/152/original.png",
     "sol": "images/152/sol.png",
-    "astra": null
+    "astra": "images/152/astra.png"
   },
   {
     "number": "153",
@@ -1021,7 +1021,7 @@
     "title": "TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis",
     "original": "images/153/original.png",
     "sol": "images/153/sol.png",
-    "astra": null
+    "astra": "images/153/astra.png"
   },
   {
     "number": "154",
@@ -1029,7 +1029,7 @@
     "title": "Structure Language Models for Protein Conformation Generation",
     "original": "images/154/original.png",
     "sol": "images/154/sol.png",
-    "astra": null
+    "astra": "images/154/astra.png"
   },
   {
     "number": "155",
@@ -1037,7 +1037,7 @@
     "title": "MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba",
     "original": "images/155/original.png",
     "sol": "images/155/sol.png",
-    "astra": null
+    "astra": "images/155/astra.png"
   },
   {
     "number": "156",
@@ -1045,7 +1045,7 @@
     "title": "Scaling Transformers for Low-Bitrate High-Quality Speech Coding",
     "original": "images/156/original.png",
     "sol": "images/156/sol.png",
-    "astra": null
+    "astra": "images/156/astra.png"
   },
   {
     "number": "157",
@@ -1053,7 +1053,7 @@
     "title": "BaB-ND: Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics",
     "original": "images/157/original.png",
     "sol": "images/157/sol.png",
-    "astra": null
+    "astra": "images/157/astra.png"
   },
   {
     "number": "158",
@@ -1061,7 +1061,7 @@
     "title": "No Preference Left Behind: Group Distributional Preference Optimization",
     "original": "images/158/original.png",
     "sol": "images/158/sol.png",
-    "astra": null
+    "astra": "images/158/astra.png"
   },
   {
     "number": "159",
@@ -1069,7 +1069,7 @@
     "title": "Data Center Cooling System Optimization Using Offline Reinforcement Learning",
     "original": "images/159/original.png",
     "sol": "images/159/sol.png",
-    "astra": null
+    "astra": "images/159/astra.png"
   },
   {
     "number": "160",
@@ -1077,7 +1077,7 @@
     "title": "Diffusion-Based Planning for Autonomous Driving with Flexible Guidance",
     "original": "images/160/original.png",
     "sol": "images/160/sol.png",
-    "astra": null
+    "astra": "images/160/astra.png"
   },
   {
     "number": "161",
@@ -1085,7 +1085,7 @@
     "title": "GOLD: Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation",
     "original": "images/161/original.png",
     "sol": "images/161/sol.png",
-    "astra": null
+    "astra": "images/161/astra.png"
   },
   {
     "number": "162",
@@ -1093,7 +1093,7 @@
     "title": "Biologically Plausible Brain Graph Transformer",
     "original": "images/162/original.png",
     "sol": "images/162/sol.png",
-    "astra": null
+    "astra": "images/162/astra.png"
   },
   {
     "number": "163",
@@ -1101,7 +1101,7 @@
     "title": "VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation",
     "original": "images/163/original.png",
     "sol": "images/163/sol.png",
-    "astra": null
+    "astra": "images/163/astra.png"
   },
   {
     "number": "164",
@@ -1109,7 +1109,7 @@
     "title": "UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation",
     "original": "images/164/original.png",
     "sol": "images/164/sol.png",
-    "astra": null
+    "astra": "images/164/astra.png"
   },
   {
     "number": "165",
@@ -1117,7 +1117,7 @@
     "title": "Smoothing the Shift: Towards Stable Test-Time Adaptation under Complex Multimodal Noises",
     "original": "images/165/original.png",
     "sol": "images/165/sol.png",
-    "astra": null
+    "astra": "images/165/astra.png"
   },
   {
     "number": "166",
@@ -1125,7 +1125,7 @@
     "title": "Is Your Video Language Model a Reliable Judge?",
     "original": "images/166/original.png",
     "sol": "images/166/sol.png",
-    "astra": null
+    "astra": "images/166/astra.png"
   },
   {
     "number": "167",
@@ -1133,7 +1133,7 @@
     "title": "TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation",
     "original": "images/167/original.png",
     "sol": "images/167/sol.png",
-    "astra": null
+    "astra": "images/167/astra.png"
   },
   {
     "number": "168",
@@ -1141,7 +1141,7 @@
     "title": "HyperDAS: Towards Automating Mechanistic Interpretability with Hypernetworks",
     "original": "images/168/original.png",
     "sol": "images/168/sol.png",
-    "astra": null
+    "astra": "images/168/astra.png"
   },
   {
     "number": "169",
@@ -1149,7 +1149,7 @@
     "title": "Efficient Action-Constrained Reinforcement Learning via Acceptance-Rejection Method and Augmented MDPs",
     "original": "images/169/original.png",
     "sol": "images/169/sol.png",
-    "astra": null
+    "astra": "images/169/astra.png"
   },
   {
     "number": "170",
@@ -1157,7 +1157,7 @@
     "title": "Adaptive Shrinkage Estimation for Personalized Deep Kernel Regression in Modeling Brain Trajectories",
     "original": "images/170/original.png",
     "sol": "images/170/sol.png",
-    "astra": null
+    "astra": "images/170/astra.png"
   },
   {
     "number": "171",
@@ -1165,7 +1165,7 @@
     "title": "Multi-Task Corrupted Prediction for Learning Robust Audio-Visual Speech Representation",
     "original": "images/171/original.png",
     "sol": "images/171/sol.png",
-    "astra": null
+    "astra": "images/171/astra.png"
   },
   {
     "number": "172",
@@ -1173,7 +1173,7 @@
     "title": "ViSAGe: Video-to-Spatial Audio Generation",
     "original": "images/172/original.png",
     "sol": "images/172/sol.png",
-    "astra": null
+    "astra": "images/172/astra.png"
   },
   {
     "number": "173",
@@ -1181,7 +1181,7 @@
     "title": "Diffusion on Language Model Encodings for Protein Sequence Generation",
     "original": "images/173/original.png",
     "sol": "images/173/sol.png",
-    "astra": null
+    "astra": "images/173/astra.png"
   },
   {
     "number": "174",
@@ -1189,7 +1189,7 @@
     "title": "The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning",
     "original": "images/174/original.png",
     "sol": "images/174/sol.png",
-    "astra": null
+    "astra": "images/174/astra.png"
   },
   {
     "number": "175",
@@ -1197,7 +1197,7 @@
     "title": "Physics-Informed Weakly Supervised Learning For Interatomic Potentials",
     "original": "images/175/original.png",
     "sol": "images/175/sol.png",
-    "astra": null
+    "astra": "images/175/astra.png"
   },
   {
     "number": "176",
@@ -1205,7 +1205,7 @@
     "title": "M3-JEPA: Multimodal Alignment via Multi-gate MoE based on the Joint-Embedding Predictive Architecture",
     "original": "images/176/original.png",
     "sol": "images/176/sol.png",
-    "astra": null
+    "astra": "images/176/astra.png"
   },
   {
     "number": "177",
@@ -1213,7 +1213,7 @@
     "title": "Sortformer: A Novel Approach for Permutation-Resolved Speaker Supervision in Speech-to-Text Systems",
     "original": "images/177/original.png",
     "sol": "images/177/sol.png",
-    "astra": null
+    "astra": "images/177/astra.png"
   },
   {
     "number": "178",
@@ -1221,7 +1221,7 @@
     "title": "Task-Agnostic Pre-training and Task-Guided Fine-tuning for Versatile Diffusion Planner",
     "original": "images/178/original.png",
     "sol": "images/178/sol.png",
-    "astra": null
+    "astra": "images/178/astra.png"
   },
   {
     "number": "179",
@@ -1229,7 +1229,7 @@
     "title": "Boosting Masked ECG-Text Auto-Encoders as Discriminative Learners",
     "original": "images/179/original.png",
     "sol": "images/179/sol.png",
-    "astra": null
+    "astra": "images/179/astra.png"
   },
   {
     "number": "180",
@@ -1237,7 +1237,7 @@
     "title": "AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML",
     "original": "images/180/original.png",
     "sol": "images/180/sol.png",
-    "astra": null
+    "astra": "images/180/astra.png"
   },
   {
     "number": "181",
@@ -1245,7 +1245,7 @@
     "title": "TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting",
     "original": "images/181/original.png",
     "sol": "images/181/sol.png",
-    "astra": null
+    "astra": "images/181/astra.png"
   },
   {
     "number": "182",
@@ -1253,7 +1253,7 @@
     "title": "Can We Predict Performance of Large Models across Vision-Language Tasks?",
     "original": "images/182/original.png",
     "sol": "images/182/sol.png",
-    "astra": null
+    "astra": "images/182/astra.png"
   },
   {
     "number": "183",
@@ -1261,7 +1261,7 @@
     "title": "TCP-Diffusion: A Multi-modal Diffusion Model for Global Tropical Cyclone Precipitation Forecasting with Change Awareness",
     "original": "images/183/original.png",
     "sol": "images/183/sol.png",
-    "astra": null
+    "astra": "images/183/astra.png"
   },
   {
     "number": "184",
@@ -1269,7 +1269,7 @@
     "title": "MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization",
     "original": "images/184/original.png",
     "sol": "images/184/sol.png",
-    "astra": null
+    "astra": "images/184/astra.png"
   },
   {
     "number": "185",
@@ -1277,7 +1277,7 @@
     "title": "Normalizing Flows are Capable Generative Models",
     "original": "images/185/original.png",
     "sol": "images/185/sol.png",
-    "astra": null
+    "astra": "images/185/astra.png"
   },
   {
     "number": "186",
@@ -1285,7 +1285,7 @@
     "title": "Sub-Sequential Physics-Informed Learning with State Space Model",
     "original": "images/186/original.png",
     "sol": "images/186/sol.png",
-    "astra": null
+    "astra": "images/186/astra.png"
   },
   {
     "number": "187",
@@ -1293,7 +1293,7 @@
     "title": "OneForecast: A Universal Framework for Global and Regional Weather Forecasting",
     "original": "images/187/original.png",
     "sol": "images/187/sol.png",
-    "astra": null
+    "astra": "images/187/astra.png"
   },
   {
     "number": "188",
@@ -1301,7 +1301,7 @@
     "title": "Deep Neural Cellular Potts Models",
     "original": "images/188/original.png",
     "sol": "images/188/sol.png",
-    "astra": null
+    "astra": "images/188/astra.png"
   },
   {
     "number": "189",
@@ -1309,7 +1309,7 @@
     "title": "On the Guidance of Flow Matching",
     "original": "images/189/original.png",
     "sol": "images/189/sol.png",
-    "astra": null
+    "astra": "images/189/astra.png"
   },
   {
     "number": "190",
@@ -1317,7 +1317,7 @@
     "title": "CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing",
     "original": "images/190/original.png",
     "sol": "images/190/sol.png",
-    "astra": null
+    "astra": "images/190/astra.png"
   },
   {
     "number": "191",
@@ -1325,7 +1325,7 @@
     "title": "Multi-agent Architecture Search via Agentic Supernet",
     "original": "images/191/original.png",
     "sol": "images/191/sol.png",
-    "astra": null
+    "astra": "images/191/astra.png"
   },
   {
     "number": "192",
@@ -1333,7 +1333,7 @@
     "title": "Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions",
     "original": "images/192/original.png",
     "sol": "images/192/sol.png",
-    "astra": null
+    "astra": "images/192/astra.png"
   },
   {
     "number": "193",
@@ -1341,7 +1341,7 @@
     "title": "Zero-shot Meta-learning for Tabular Prediction Tasks with Adversarially Pre-trained Transformer",
     "original": "images/193/original.png",
     "sol": "images/193/sol.png",
-    "astra": null
+    "astra": "images/193/astra.png"
   },
   {
     "number": "194",
@@ -1349,7 +1349,7 @@
     "title": "DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra",
     "original": "images/194/original.png",
     "sol": "images/194/sol.png",
-    "astra": null
+    "astra": "images/194/astra.png"
   },
   {
     "number": "195",
@@ -1357,7 +1357,7 @@
     "title": "OptMATH: A Scalable Bidirectional Data Synthesis Framework for Optimization Modeling",
     "original": "images/195/original.png",
     "sol": "images/195/sol.png",
-    "astra": null
+    "astra": "images/195/astra.png"
   },
   {
     "number": "196",
@@ -1365,7 +1365,7 @@
     "title": "Temporal Misalignment in ANN-SNN Conversion and its Mitigation via Probabilistic Spiking Neurons",
     "original": "images/196/original.png",
     "sol": "images/196/sol.png",
-    "astra": null
+    "astra": "images/196/astra.png"
   },
   {
     "number": "197",
@@ -1373,7 +1373,7 @@
     "title": "Self-Supervised Transformers as Iterative Solution Improvers for Constraint Satisfaction",
     "original": "images/197/original.png",
     "sol": "images/197/sol.png",
-    "astra": null
+    "astra": "images/197/astra.png"
   },
   {
     "number": "198",
@@ -1381,7 +1381,7 @@
     "title": "Retrieval-Augmented Perception: High-resolution Image Perception Meets Visual RAG",
     "original": "images/198/original.png",
     "sol": "images/198/sol.png",
-    "astra": null
+    "astra": "images/198/astra.png"
   },
   {
     "number": "199",
@@ -1389,7 +1389,7 @@
     "title": "BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization",
     "original": "images/199/original.png",
     "sol": "images/199/sol.png",
-    "astra": null
+    "astra": "images/199/astra.png"
   },
   {
     "number": "200",
@@ -1397,7 +1397,7 @@
     "title": "Mixture of Lookup Experts",
     "original": "images/200/original.png",
     "sol": "images/200/sol.png",
-    "astra": null
+    "astra": "images/200/astra.png"
   },
   {
     "number": "201",
@@ -1405,7 +1405,7 @@
     "title": "OmniAudio: Generating Spatial Audio from 360-Degree Video",
     "original": "images/201/original.png",
     "sol": "images/201/sol.png",
-    "astra": null
+    "astra": "images/201/astra.png"
   },
   {
     "number": "202",
@@ -1413,7 +1413,7 @@
     "title": "BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing",
     "original": "images/202/original.png",
     "sol": "images/202/sol.png",
-    "astra": null
+    "astra": "images/202/astra.png"
   },
   {
     "number": "203",
@@ -1421,7 +1421,7 @@
     "title": "Synthesizing Images on Perceptual Boundaries of ANNs for Uncovering and Manipulating Human Perceptual Variability",
     "original": "images/203/original.png",
     "sol": "images/203/sol.png",
-    "astra": null
+    "astra": "images/203/astra.png"
   },
   {
     "number": "204",
@@ -1429,7 +1429,7 @@
     "title": "ArrayDPS: Unsupervised Blind Speech Separation with a Diffusion Prior",
     "original": "images/204/original.png",
     "sol": "images/204/sol.png",
-    "astra": null
+    "astra": "images/204/astra.png"
   },
   {
     "number": "205",
@@ -1437,7 +1437,7 @@
     "title": "DragLoRA: Online Optimization of LoRA Adapters for Drag-based Image Editing in Diffusion Model",
     "original": "images/205/original.png",
     "sol": "images/205/sol.png",
-    "astra": null
+    "astra": "images/205/astra.png"
   },
   {
     "number": "206",
@@ -1445,7 +1445,7 @@
     "title": "SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval",
     "original": "images/206/original.png",
     "sol": "images/206/sol.png",
-    "astra": null
+    "astra": "images/206/astra.png"
   },
   {
     "number": "207",
@@ -1453,7 +1453,7 @@
     "title": "Learning Optimal Multimodal Information Bottleneck Representations",
     "original": "images/207/original.png",
     "sol": "images/207/sol.png",
-    "astra": null
+    "astra": "images/207/astra.png"
   },
   {
     "number": "208",
@@ -1461,7 +1461,7 @@
     "title": "Beyond Entropy: Region Confidence Proxy for Wild Test-Time Adaptation",
     "original": "images/208/original.png",
     "sol": "images/208/sol.png",
-    "astra": null
+    "astra": "images/208/astra.png"
   },
   {
     "number": "209",
@@ -1469,7 +1469,7 @@
     "title": "IMTS is Worth Time $\\times$ Channel Patches: Visual Masked Autoencoders for Irregular Multivariate Time Series Prediction",
     "original": "images/209/original.png",
     "sol": "images/209/sol.png",
-    "astra": null
+    "astra": "images/209/astra.png"
   },
   {
     "number": "210",
@@ -1477,7 +1477,7 @@
     "title": "BinauralFlow: A Causal and Streamable Approach for High-Quality Binaural Speech Synthesis with Flow Matching Models",
     "original": "images/210/original.png",
     "sol": "images/210/sol.png",
-    "astra": null
+    "astra": "images/210/astra.png"
   },
   {
     "number": "211",
@@ -1485,7 +1485,7 @@
     "title": "TMetaNet: Topological Meta-Learning Framework for Dynamic Link Prediction",
     "original": "images/211/original.png",
     "sol": "images/211/sol.png",
-    "astra": null
+    "astra": "images/211/astra.png"
   },
   {
     "number": "212",
@@ -1493,7 +1493,7 @@
     "title": "IMPACT: Iterative Mask-based Parallel Decoding for Text-to-Audio Generation with Diffusion Modeling",
     "original": "images/212/original.png",
     "sol": "images/212/sol.png",
-    "astra": null
+    "astra": "images/212/astra.png"
   },
   {
     "number": "213",
@@ -1501,7 +1501,7 @@
     "title": "Locality Preserving Markovian Transition for Instance Retrieval",
     "original": "images/213/original.png",
     "sol": "images/213/sol.png",
-    "astra": null
+    "astra": "images/213/astra.png"
   },
   {
     "number": "214",
@@ -1509,7 +1509,7 @@
     "title": "Unisoma: A Unified Transformer-based Solver for Multi-Solid Systems",
     "original": "images/214/original.png",
     "sol": "images/214/sol.png",
-    "astra": null
+    "astra": "images/214/astra.png"
   },
   {
     "number": "215",
@@ -1517,7 +1517,7 @@
     "title": "FairPFN: A Tabular Foundation Model for Causal Fairness",
     "original": "images/215/original.png",
     "sol": "images/215/sol.png",
-    "astra": null
+    "astra": "images/215/astra.png"
   },
   {
     "number": "216",
@@ -1525,7 +1525,7 @@
     "title": "Enhancing Rating-Based Reinforcement Learning to Effectively Leverage Feedback from Large Vision-Language Models",
     "original": "images/216/original.png",
     "sol": "images/216/sol.png",
-    "astra": null
+    "astra": "images/216/astra.png"
   },
   {
     "number": "217",
@@ -1533,7 +1533,7 @@
     "title": "Efficient Quantification of Multimodal Interaction at Sample Level",
     "original": "images/217/original.png",
     "sol": "images/217/sol.png",
-    "astra": null
+    "astra": "images/217/astra.png"
   },
   {
     "number": "218",
@@ -1541,7 +1541,7 @@
     "title": "Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models",
     "original": "images/218/original.png",
     "sol": "images/218/sol.png",
-    "astra": null
+    "astra": "images/218/astra.png"
   },
   {
     "number": "219",
@@ -1549,7 +1549,7 @@
     "title": "A Generalizable Physics-Enhanced State Space Model for Long-Term Dynamics Forecasting in Complex Environments",
     "original": "images/219/original.png",
     "sol": "images/219/sol.png",
-    "astra": null
+    "astra": "images/219/astra.png"
   },
   {
     "number": "220",
@@ -1557,7 +1557,7 @@
     "title": "FOUNDER: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making",
     "original": "images/220/original.png",
     "sol": "images/220/sol.png",
-    "astra": null
+    "astra": "images/220/astra.png"
   },
   {
     "number": "221",
@@ -1565,7 +1565,7 @@
     "title": "Adversarial Attacks on Both Face Recognition and Face Anti-spoofing Models",
     "original": "images/221/original.png",
     "sol": "images/221/sol.png",
-    "astra": null
+    "astra": "images/221/astra.png"
   },
   {
     "number": "222",
@@ -1573,7 +1573,7 @@
     "title": "Efficient Visual Representation Learning with Heat Conduction Equation",
     "original": "images/222/original.png",
     "sol": "images/222/sol.png",
-    "astra": null
+    "astra": "images/222/astra.png"
   },
   {
     "number": "223",
@@ -1581,7 +1581,7 @@
     "title": "LensNet: An End-to-End Learning Framework for Empirical Point Spread Function Modeling and Lensless Imaging Reconstruction",
     "original": "images/223/original.png",
     "sol": "images/223/sol.png",
-    "astra": null
+    "astra": "images/223/astra.png"
   },
   {
     "number": "224",
@@ -1589,7 +1589,7 @@
     "title": "Causal View of Time Series Imputation: Some Identification Results on Missing Mechanism",
     "original": "images/224/original.png",
     "sol": "images/224/sol.png",
-    "astra": null
+    "astra": "images/224/astra.png"
   },
   {
     "number": "225",
@@ -1597,7 +1597,7 @@
     "title": "CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models",
     "original": "images/225/original.png",
     "sol": "images/225/sol.png",
-    "astra": null
+    "astra": "images/225/astra.png"
   },
   {
     "number": "226",
@@ -1605,7 +1605,7 @@
     "title": "Two-Stage Feature Generation with Transformer and Reinforcement Learning",
     "original": "images/226/original.png",
     "sol": "images/226/sol.png",
-    "astra": null
+    "astra": "images/226/astra.png"
   },
   {
     "number": "227",
@@ -1613,7 +1613,7 @@
     "title": "Phenotypic Profile-Informed Generation of Drug-Like Molecules via Dual-Channel Variational Autoencoders",
     "original": "images/227/original.png",
     "sol": "images/227/sol.png",
-    "astra": null
+    "astra": "images/227/astra.png"
   },
   {
     "number": "228",
@@ -1621,7 +1621,7 @@
     "title": "MTPNet: Multi-Grained Target Perception for Unified Activity Cliff Prediction",
     "original": "images/228/original.png",
     "sol": "images/228/sol.png",
-    "astra": null
+    "astra": "images/228/astra.png"
   },
   {
     "number": "229",
@@ -1629,7 +1629,7 @@
     "title": "Filling the Missings: Spatiotemporal Data Imputation by Conditional Diffusion",
     "original": "images/229/original.png",
     "sol": "images/229/sol.png",
-    "astra": null
+    "astra": "images/229/astra.png"
   },
   {
     "number": "230",
@@ -1637,7 +1637,7 @@
     "title": "COLUR: Confidence-Oriented Learning, Unlearning and Relearning with Noisy-Label Data for Model Restoration and Refinement",
     "original": "images/230/original.png",
     "sol": "images/230/sol.png",
-    "astra": null
+    "astra": "images/230/astra.png"
   },
   {
     "number": "231",
@@ -1645,7 +1645,7 @@
     "title": "Ask Optimal Questions: Aligning Large Language Models with Retriever’s Preference in Conversation",
     "original": "images/231/original.png",
     "sol": "images/231/sol.png",
-    "astra": null
+    "astra": "images/231/astra.png"
   },
   {
     "number": "232",
@@ -1653,7 +1653,7 @@
     "title": "DREAM: Improving Video-Text Retrieval Through Relevance-Based Augmentation Using Large Foundation Models",
     "original": "images/232/original.png",
     "sol": "images/232/sol.png",
-    "astra": null
+    "astra": "images/232/astra.png"
   },
   {
     "number": "233",
@@ -1661,7 +1661,7 @@
     "title": "Style Transfer with Multi-iteration Preference Optimization",
     "original": "images/233/original.png",
     "sol": "images/233/sol.png",
-    "astra": null
+    "astra": "images/233/astra.png"
   },
   {
     "number": "234",
@@ -1669,7 +1669,7 @@
     "title": "Discrete Diffusion Language Model for Efficient Text Summarization",
     "original": "images/234/original.png",
     "sol": "images/234/sol.png",
-    "astra": null
+    "astra": "images/234/astra.png"
   },
   {
     "number": "235",
@@ -1677,7 +1677,7 @@
     "title": "kNN Retrieval for Simple and Effective Zero-Shot Multi-speaker Text-to-Speech",
     "original": "images/235/original.png",
     "sol": "images/235/sol.png",
-    "astra": null
+    "astra": "images/235/astra.png"
   },
   {
     "number": "236",
@@ -1685,7 +1685,7 @@
     "title": "SAPIENT: Mastering Multi-turn Conversational Recommendation with Strategic Planning and Monte Carlo Tree Search",
     "original": "images/236/original.png",
     "sol": "images/236/sol.png",
-    "astra": null
+    "astra": "images/236/astra.png"
   },
   {
     "number": "237",
@@ -1693,7 +1693,7 @@
     "title": "MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning",
     "original": "images/237/original.png",
     "sol": "images/237/sol.png",
-    "astra": null
+    "astra": "images/237/astra.png"
   },
   {
     "number": "238",
@@ -1701,7 +1701,7 @@
     "title": "Hypothesis Generation for Materials Discovery and Design Using Goal-Driven and Constraint-Guided LLM Agents",
     "original": "images/238/original.png",
     "sol": "images/238/sol.png",
-    "astra": null
+    "astra": "images/238/astra.png"
   },
   {
     "number": "239",
@@ -1709,7 +1709,7 @@
     "title": "GraPPI: A Retrieve-Divide-Solve GraphRAG Framework for Large-scale Protein-protein Interaction Exploration",
     "original": "images/239/original.png",
     "sol": "images/239/sol.png",
-    "astra": null
+    "astra": "images/239/astra.png"
   },
   {
     "number": "240",
@@ -1717,7 +1717,7 @@
     "title": "Elevating Legal LLM Responses: Harnessing Trainable Logical Structures and Semantic Knowledge with Legal Reasoning",
     "original": "images/240/original.png",
     "sol": "images/240/sol.png",
-    "astra": null
+    "astra": "images/240/astra.png"
   },
   {
     "number": "241",
@@ -1725,7 +1725,7 @@
     "title": "Examining and Adapting Time for Multilingual Classification via Mixture of Temporal Experts",
     "original": "images/241/original.png",
     "sol": "images/241/sol.png",
-    "astra": null
+    "astra": "images/241/astra.png"
   },
   {
     "number": "242",
@@ -1733,7 +1733,7 @@
     "title": "PREMISE: Matching-based Prediction for Accurate Review Recommendation",
     "original": "images/242/original.png",
     "sol": "images/242/sol.png",
-    "astra": null
+    "astra": "images/242/astra.png"
   },
   {
     "number": "243",
@@ -1741,7 +1741,7 @@
     "title": "G-Memory Tracing Hierarchical Memory for Multi-Agent Systems",
     "original": "images/243/original.png",
     "sol": "images/243/sol.png",
-    "astra": null
+    "astra": "images/243/astra.png"
   },
   {
     "number": "244",
@@ -1749,7 +1749,7 @@
     "title": "Geometry Aware Operator Transformer as an efficient and accurate neural surrogate for PDEs on arbitrary domains",
     "original": "images/244/original.png",
     "sol": "images/244/sol.png",
-    "astra": null
+    "astra": "images/244/astra.png"
   },
   {
     "number": "245",
@@ -1757,7 +1757,7 @@
     "title": "HoliTom Holistic Token Merging for Fast Video Large Language Models",
     "original": "images/245/original.png",
     "sol": "images/245/sol.png",
-    "astra": null
+    "astra": "images/245/astra.png"
   },
   {
     "number": "246",
@@ -1765,7 +1765,7 @@
     "title": "HyperGraphRAG Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation",
     "original": "images/246/original.png",
     "sol": "images/246/sol.png",
-    "astra": null
+    "astra": "images/246/astra.png"
   },
   {
     "number": "247",
@@ -1773,7 +1773,7 @@
     "title": "IllumiCraft Unified Geometry and Illumination Diffusion for Controllable Video Generation",
     "original": "images/247/original.png",
     "sol": "images/247/sol.png",
-    "astra": null
+    "astra": "images/247/astra.png"
   },
   {
     "number": "248",
@@ -1781,7 +1781,7 @@
     "title": "AR-RAG Autoregressive Retrieval Augmentation for Image Generation",
     "original": "images/248/original.png",
     "sol": "images/248/sol.png",
-    "astra": null
+    "astra": "images/248/astra.png"
   },
   {
     "number": "249",
@@ -1789,7 +1789,7 @@
     "title": "Lattice Boltzmann Model for Learning Real-World Pixel Dynamicity",
     "original": "images/249/original.png",
     "sol": "images/249/sol.png",
-    "astra": null
+    "astra": "images/249/astra.png"
   },
   {
     "number": "250",
@@ -1797,7 +1797,7 @@
     "title": "MODEM A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery",
     "original": "images/250/original.png",
     "sol": "images/250/sol.png",
-    "astra": null
+    "astra": "images/250/astra.png"
   },
   {
     "number": "251",
@@ -1805,7 +1805,7 @@
     "title": "OSVI-WM One-Shot Visual Imitation for Unseen Tasks using World-Model-Guided Trajectory Generation",
     "original": "images/251/original.png",
     "sol": "images/251/sol.png",
-    "astra": null
+    "astra": "images/251/astra.png"
   },
   {
     "number": "252",
@@ -1813,7 +1813,7 @@
     "title": "OmniResponse Online Multimodal Conversational Response Generation in Dyadic Interactions",
     "original": "images/252/original.png",
     "sol": "images/252/sol.png",
-    "astra": null
+    "astra": "images/252/astra.png"
   },
   {
     "number": "253",
@@ -1821,7 +1821,7 @@
     "title": "OmniVCus Feedforward Subject-driven Video Customization with Multimodal Control Conditions",
     "original": "images/253/original.png",
     "sol": "images/253/sol.png",
-    "astra": null
+    "astra": "images/253/astra.png"
   },
   {
     "number": "254",
@@ -1829,7 +1829,7 @@
     "title": "Active Target Discovery under Uninformative Priors The Power of Permanent and Transient Memory",
     "original": "images/254/original.png",
     "sol": "images/254/sol.png",
-    "astra": null
+    "astra": "images/254/astra.png"
   },
   {
     "number": "255",
@@ -1837,7 +1837,7 @@
     "title": "OptiTree Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling",
     "original": "images/255/original.png",
     "sol": "images/255/sol.png",
-    "astra": null
+    "astra": "images/255/astra.png"
   },
   {
     "number": "256",
@@ -1845,7 +1845,7 @@
     "title": "$mathcal{X}^2$-DFD A framework for e$mathcal{X}$plainable and e$mathcal{X}$tendable Deepfake Detection",
     "original": "images/256/original.png",
     "sol": "images/256/sol.png",
-    "astra": null
+    "astra": "images/256/astra.png"
   },
   {
     "number": "257",
@@ -1853,7 +1853,7 @@
     "title": "Adversarial Paraphrasing A Universal Attack for Humanizing AI-Generated Text",
     "original": "images/257/original.png",
     "sol": "images/257/sol.png",
-    "astra": null
+    "astra": "images/257/astra.png"
   },
   {
     "number": "258",
@@ -1861,7 +1861,7 @@
     "title": "Quantifying Cross-Modality Memorization in Vision-Language Models",
     "original": "images/258/original.png",
     "sol": "images/258/sol.png",
-    "astra": null
+    "astra": "images/258/astra.png"
   },
   {
     "number": "259",
@@ -1869,7 +1869,7 @@
     "title": "ReSim Reliable World Simulation for Autonomous Driving",
     "original": "images/259/original.png",
     "sol": "images/259/sol.png",
-    "astra": null
+    "astra": "images/259/astra.png"
   },
   {
     "number": "260",
@@ -1877,7 +1877,7 @@
     "title": "Reason-RFT Reinforcement Fine-Tuning for Visual Reasoning of Vision Language Models",
     "original": "images/260/original.png",
     "sol": "images/260/sol.png",
-    "astra": null
+    "astra": "images/260/astra.png"
   },
   {
     "number": "261",
@@ -1885,7 +1885,7 @@
     "title": "Revisiting Semi-Supervised Learning in the Era of Foundation Models",
     "original": "images/261/original.png",
     "sol": "images/261/sol.png",
-    "astra": null
+    "astra": "images/261/astra.png"
   },
   {
     "number": "262",
@@ -1893,7 +1893,7 @@
     "title": "RoME Domain-Robust Mixture-of-Experts for MILP Solution Prediction across Domains",
     "original": "images/262/original.png",
     "sol": "images/262/sol.png",
-    "astra": null
+    "astra": "images/262/astra.png"
   },
   {
     "number": "263",
@@ -1901,7 +1901,7 @@
     "title": "AgentAuditor Human-level Safety and Security Evaluation for LLM Agents",
     "original": "images/263/original.png",
     "sol": "images/263/sol.png",
-    "astra": null
+    "astra": "images/263/astra.png"
   },
   {
     "number": "264",
@@ -1909,7 +1909,7 @@
     "title": "RoboScape Physics-informed Embodied World Model",
     "original": "images/264/original.png",
     "sol": "images/264/sol.png",
-    "astra": null
+    "astra": "images/264/astra.png"
   },
   {
     "number": "265",
@@ -1917,7 +1917,7 @@
     "title": "STRAP Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization",
     "original": "images/265/original.png",
     "sol": "images/265/sol.png",
-    "astra": null
+    "astra": "images/265/astra.png"
   },
   {
     "number": "266",
@@ -1925,7 +1925,7 @@
     "title": "SceneForge Enhancing 3D-text alignment with Structured Scene Compositions",
     "original": "images/266/original.png",
     "sol": "images/266/sol.png",
-    "astra": null
+    "astra": "images/266/astra.png"
   },
   {
     "number": "267",
@@ -1933,7 +1933,7 @@
     "title": "TITAN A Trajectory-Informed Technique for Adaptive Parameter Freezing in Large-Scale VQE",
     "original": "images/267/original.png",
     "sol": "images/267/sol.png",
-    "astra": null
+    "astra": "images/267/astra.png"
   },
   {
     "number": "268",
@@ -1941,7 +1941,7 @@
     "title": "TP-MDDN Task-Preferenced Multi-Demand-Driven Navigation with Autonomous Decision-Making",
     "original": "images/268/original.png",
     "sol": "images/268/sol.png",
-    "astra": null
+    "astra": "images/268/astra.png"
   },
   {
     "number": "269",
@@ -1949,7 +1949,7 @@
     "title": "Tru-POMDP Task Planning Under Uncertainty via Tree of Hypotheses and Open-Ended POMDPs",
     "original": "images/269/original.png",
     "sol": "images/269/sol.png",
-    "astra": null
+    "astra": "images/269/astra.png"
   },
   {
     "number": "270",
@@ -1957,7 +1957,7 @@
     "title": "UltraLED Learning to See Everything in Ultra-High Dynamic Range Scenes",
     "original": "images/270/original.png",
     "sol": "images/270/sol.png",
-    "astra": null
+    "astra": "images/270/astra.png"
   },
   {
     "number": "271",
@@ -1965,7 +1965,7 @@
     "title": "UniMRSeg Unified Modality-Relax Segmentation via Hierarchical Self-Supervised Compensation",
     "original": "images/271/original.png",
     "sol": "images/271/sol.png",
-    "astra": null
+    "astra": "images/271/astra.png"
   },
   {
     "number": "272",
@@ -1973,7 +1973,7 @@
     "title": "VLForgery Face Triad Detection, Localization and Attribution via Multimodal Large Language Models",
     "original": "images/272/original.png",
     "sol": "images/272/sol.png",
-    "astra": null
+    "astra": "images/272/astra.png"
   },
   {
     "number": "273",
@@ -1981,7 +1981,7 @@
     "title": "Vad-R1 Towards Video Anomaly Reasoning via Perception-to-Cognition Chain-of-Thought",
     "original": "images/273/original.png",
     "sol": "images/273/sol.png",
-    "astra": null
+    "astra": "images/273/astra.png"
   },
   {
     "number": "274",
@@ -1989,7 +1989,7 @@
     "title": "Video-RAG Visually-aligned Retrieval-Augmented Long Video Comprehension",
     "original": "images/274/original.png",
     "sol": "images/274/sol.png",
-    "astra": null
+    "astra": "images/274/astra.png"
   },
   {
     "number": "275",
@@ -1997,7 +1997,7 @@
     "title": "VideoChat-R1.5 Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception",
     "original": "images/275/original.png",
     "sol": "images/275/sol.png",
-    "astra": null
+    "astra": "images/275/astra.png"
   },
   {
     "number": "276",
@@ -2005,7 +2005,7 @@
     "title": "Vision Transformers with Self-Distilled Registers",
     "original": "images/276/original.png",
     "sol": "images/276/sol.png",
-    "astra": null
+    "astra": "images/276/astra.png"
   },
   {
     "number": "277",
@@ -2013,7 +2013,7 @@
     "title": "Watch and Listen Understanding Audio-Visual-Speech Moments with Multimodal LLM",
     "original": "images/277/original.png",
     "sol": "images/277/sol.png",
-    "astra": null
+    "astra": "images/277/astra.png"
   },
   {
     "number": "278",
@@ -2021,7 +2021,7 @@
     "title": "What is Your Data Worth to GPT LLM-Scale Data Valuation with Influence Functions",
     "original": "images/278/original.png",
     "sol": "images/278/sol.png",
-    "astra": null
+    "astra": "images/278/astra.png"
   },
   {
     "number": "279",
@@ -2029,7 +2029,7 @@
     "title": "Co-PatcheR Collaborative Software Patching with Component-specific Small Reasoning Models",
     "original": "images/279/original.png",
     "sol": "images/279/sol.png",
-    "astra": null
+    "astra": "images/279/astra.png"
   },
   {
     "number": "280",
@@ -2037,7 +2037,7 @@
     "title": "CoIDO Efficient Data Selection for Visual Instruction Tuning via Coupled Importance-Diversity Optimization",
     "original": "images/280/original.png",
     "sol": "images/280/sol.png",
-    "astra": null
+    "astra": "images/280/astra.png"
   },
   {
     "number": "281",
@@ -2045,7 +2045,7 @@
     "title": "CoT-lized Diffusion Let's Reinforce T2I Generation Step-by-step",
     "original": "images/281/original.png",
     "sol": "images/281/sol.png",
-    "astra": null
+    "astra": "images/281/astra.png"
   },
   {
     "number": "282",
@@ -2053,7 +2053,7 @@
     "title": "4KAgent Agentic Any Image to 4K Super-Resolution",
     "original": "images/282/original.png",
     "sol": "images/282/sol.png",
-    "astra": null
+    "astra": "images/282/astra.png"
   },
   {
     "number": "283",
@@ -2061,7 +2061,7 @@
     "title": "Dynamic Diffusion Schrödinger Bridge in Astrophysical Observational Inversions",
     "original": "images/283/original.png",
     "sol": "images/283/sol.png",
-    "astra": null
+    "astra": "images/283/astra.png"
   },
   {
     "number": "284",
@@ -2069,7 +2069,7 @@
     "title": "FlowCut Rethinking Redundancy via Information Flow for Efficient Vision-Language Models",
     "original": "images/284/original.png",
     "sol": "images/284/sol.png",
-    "astra": null
+    "astra": "images/284/astra.png"
   },
   {
     "number": "285",
@@ -2077,7 +2077,7 @@
     "title": "Genesis Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency",
     "original": "images/285/original.png",
     "sol": "images/285/sol.png",
-    "astra": null
+    "astra": "images/285/astra.png"
   },
   {
     "number": "286",
@@ -2085,7 +2085,7 @@
     "title": "Latent Harmony Synergistic Unified UHD Image Restoration via Latent Space Regularization and Controllable Refinement",
     "original": "images/286/original.png",
     "sol": "images/286/sol.png",
-    "astra": null
+    "astra": "images/286/astra.png"
   },
   {
     "number": "287",
@@ -2093,7 +2093,7 @@
     "title": "Learning Spatial-Aware Manipulation Ordering",
     "original": "images/287/original.png",
     "sol": "images/287/sol.png",
-    "astra": null
+    "astra": "images/287/astra.png"
   },
   {
     "number": "288",
@@ -2101,7 +2101,7 @@
     "title": "Look Before You Leap A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation",
     "original": "images/288/original.png",
     "sol": "images/288/sol.png",
-    "astra": null
+    "astra": "images/288/astra.png"
   },
   {
     "number": "289",
@@ -2109,7 +2109,7 @@
     "title": "MV-CoLight Efficient Object Compositing with Consistent Lighting and Shadow Generation",
     "original": "images/289/original.png",
     "sol": "images/289/sol.png",
-    "astra": null
+    "astra": "images/289/astra.png"
   },
   {
     "number": "290",
@@ -2117,7 +2117,7 @@
     "title": "MoE-Gyro Self-Supervised Over-Range Reconstruction and Denoising for MEMS Gyroscopes",
     "original": "images/290/original.png",
     "sol": "images/290/sol.png",
-    "astra": null
+    "astra": "images/290/astra.png"
   },
   {
     "number": "291",
@@ -2125,7 +2125,7 @@
     "title": "AdvEDM Fine-grained Adversarial Attack against VLM-based Embodied Agents",
     "original": "images/291/original.png",
     "sol": "images/291/sol.png",
-    "astra": null
+    "astra": "images/291/astra.png"
   },
   {
     "number": "292",
@@ -2133,7 +2133,7 @@
     "title": "Multi-scale Temporal Prediction via Incremental Generation and Multi-agent Collaboration",
     "original": "images/292/original.png",
     "sol": "images/292/sol.png",
-    "astra": null
+    "astra": "images/292/astra.png"
   },
   {
     "number": "293",
@@ -2141,7 +2141,7 @@
     "title": "NegoCollab A Common Representation Negotiation Approach for Heterogeneous Collaborative Perception",
     "original": "images/293/original.png",
     "sol": "images/293/sol.png",
-    "astra": null
+    "astra": "images/293/astra.png"
   },
   {
     "number": "294",
@@ -2149,7 +2149,7 @@
     "title": "PANDA Towards Generalist Video Anomaly Detection via Agentic AI Engineer",
     "original": "images/294/original.png",
     "sol": "images/294/sol.png",
-    "astra": null
+    "astra": "images/294/astra.png"
   },
   {
     "number": "295",
@@ -2157,7 +2157,7 @@
     "title": "PoseCrafter Extreme Pose Estimation with Hybrid Video Synthesis",
     "original": "images/295/original.png",
     "sol": "images/295/sol.png",
-    "astra": null
+    "astra": "images/295/astra.png"
   },
   {
     "number": "296",
@@ -2165,7 +2165,7 @@
     "title": "Real-World Adverse Weather Image Restoration via Dual-Level Reinforcement Learning with High-Quality Cold Start",
     "original": "images/296/original.png",
     "sol": "images/296/sol.png",
-    "astra": null
+    "astra": "images/296/astra.png"
   },
   {
     "number": "297",
@@ -2173,7 +2173,7 @@
     "title": "Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation",
     "original": "images/297/original.png",
     "sol": "images/297/sol.png",
-    "astra": null
+    "astra": "images/297/astra.png"
   },
   {
     "number": "298",
@@ -2181,7 +2181,7 @@
     "title": "Retrv-R1 A Reasoning-Driven MLLM Framework for Universal and Efficient Multimodal Retrieval",
     "original": "images/298/original.png",
     "sol": "images/298/sol.png",
-    "astra": null
+    "astra": "images/298/astra.png"
   },
   {
     "number": "299",
@@ -2189,7 +2189,7 @@
     "title": "Robust Graph Condensation via Classification Complexity Mitigation",
     "original": "images/299/original.png",
     "sol": "images/299/sol.png",
-    "astra": null
+    "astra": "images/299/astra.png"
   },
   {
     "number": "300",
@@ -2197,7 +2197,7 @@
     "title": "AutoSciDACT Automated Scientific Discovery through Contrastive Embedding and Hypothesis Testing",
     "original": "images/300/original.png",
     "sol": "images/300/sol.png",
-    "astra": null
+    "astra": "images/300/astra.png"
   },
   {
     "number": "301",
@@ -2205,7 +2205,7 @@
     "title": "SViMo Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios",
     "original": "images/301/original.png",
     "sol": "images/301/sol.png",
-    "astra": null
+    "astra": "images/301/astra.png"
   },
   {
     "number": "302",
@@ -2213,7 +2213,7 @@
     "title": "SYMPHONY Synergistic Multi-agent Planning with Heterogeneous Language Model Assembly",
     "original": "images/302/original.png",
     "sol": "images/302/sol.png",
-    "astra": null
+    "astra": "images/302/astra.png"
   },
   {
     "number": "303",
@@ -2221,7 +2221,7 @@
     "title": "SemCoT Accelerating Chain-of-Thought Reasoning through Semantically-Aligned Implicit Tokens",
     "original": "images/303/original.png",
     "sol": "images/303/sol.png",
-    "astra": null
+    "astra": "images/303/astra.png"
   },
   {
     "number": "304",
@@ -2229,7 +2229,7 @@
     "title": "Spectral Compressive Imaging via Chromaticity-Intensity Decomposition",
     "original": "images/304/original.png",
     "sol": "images/304/sol.png",
-    "astra": null
+    "astra": "images/304/astra.png"
   },
   {
     "number": "305",
@@ -2237,7 +2237,7 @@
     "title": "TrajMamba An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model",
     "original": "images/305/original.png",
     "sol": "images/305/sol.png",
-    "astra": null
+    "astra": "images/305/astra.png"
   },
   {
     "number": "306",
@@ -2245,7 +2245,7 @@
     "title": "UniDomain Pretraining a Unified PDDL Domain from Real-World Demonstrations for Generalizable Robot Task Planning",
     "original": "images/306/original.png",
     "sol": "images/306/sol.png",
-    "astra": null
+    "astra": "images/306/astra.png"
   },
   {
     "number": "307",
@@ -2253,7 +2253,7 @@
     "title": "UniPixel Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning",
     "original": "images/307/original.png",
     "sol": "images/307/sol.png",
-    "astra": null
+    "astra": "images/307/astra.png"
   },
   {
     "number": "308",
@@ -2261,7 +2261,7 @@
     "title": "VA-GS Enhancing the Geometric Representation of Gaussian Splatting via View Alignment",
     "original": "images/308/original.png",
     "sol": "images/308/sol.png",
-    "astra": null
+    "astra": "images/308/astra.png"
   },
   {
     "number": "309",
@@ -2269,7 +2269,7 @@
     "title": "VQ-Seg Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation",
     "original": "images/309/original.png",
     "sol": "images/309/sol.png",
-    "astra": null
+    "astra": "images/309/astra.png"
   },
   {
     "number": "310",
@@ -2277,7 +2277,7 @@
     "title": "WALL-E World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents",
     "original": "images/310/original.png",
     "sol": "images/310/sol.png",
-    "astra": null
+    "astra": "images/310/astra.png"
   },
   {
     "number": "311",
@@ -2285,7 +2285,7 @@
     "title": "ZEBRA Towards Zero-Shot Cross-Subject Generalization for Universal Brain Visual Decoding",
     "original": "images/311/original.png",
     "sol": "images/311/sol.png",
-    "astra": null
+    "astra": "images/311/astra.png"
   },
   {
     "number": "312",
@@ -2293,7 +2293,7 @@
     "title": "CSPCL Category Semantic Prior Contrastive Learning for Deformable DETR-Based Prohibited Item Detectors",
     "original": "images/312/original.png",
     "sol": "images/312/sol.png",
-    "astra": null
+    "astra": "images/312/astra.png"
   },
   {
     "number": "313",
@@ -2301,7 +2301,7 @@
     "title": "CrossAD Time Series Anomaly Detection with Cross-scale Associations and Cross-window Modeling",
     "original": "images/313/original.png",
     "sol": "images/313/sol.png",
-    "astra": null
+    "astra": "images/313/astra.png"
   },
   {
     "number": "314",
@@ -2309,7 +2309,7 @@
     "title": "DAWP A framework for global observation forecasting via Data Assimilation and Weather Prediction in satellite observation space",
     "original": "images/314/original.png",
     "sol": "images/314/sol.png",
-    "astra": null
+    "astra": "images/314/astra.png"
   },
   {
     "number": "315",
@@ -2317,7 +2317,7 @@
     "title": "Dendritic Resonate-and-Fire Neuron for Effective and Efficient Long Sequence Modeling",
     "original": "images/315/original.png",
     "sol": "images/315/sol.png",
-    "astra": null
+    "astra": "images/315/astra.png"
   },
   {
     "number": "316",
@@ -2325,7 +2325,7 @@
     "title": "Detoxifying Large Language Models via Autoregressive Reward Guided Representation Editing",
     "original": "images/316/original.png",
     "sol": "images/316/sol.png",
-    "astra": null
+    "astra": "images/316/astra.png"
   },
   {
     "number": "317",
@@ -2333,7 +2333,7 @@
     "title": "Diffusion-Driven Two-Stage Active Learning for Low-Budget Semantic Segmentation",
     "original": "images/317/original.png",
     "sol": "images/317/sol.png",
-    "astra": null
+    "astra": "images/317/astra.png"
   },
   {
     "number": "318",
@@ -2341,7 +2341,7 @@
     "title": "DisMo Disentangled Motion Representations for Open-World Motion Transfer",
     "original": "images/318/original.png",
     "sol": "images/318/sol.png",
-    "astra": null
+    "astra": "images/318/astra.png"
   },
   {
     "number": "319",
@@ -2349,7 +2349,7 @@
     "title": "DyFlow Dynamic Workflow Framework for Agentic Reasoning",
     "original": "images/319/original.png",
     "sol": "images/319/sol.png",
-    "astra": null
+    "astra": "images/319/astra.png"
   },
   {
     "number": "320",
@@ -2357,7 +2357,7 @@
     "title": "Enhancing Infrared Vision Progressive Prompt Fusion Network and Benchmark",
     "original": "images/320/original.png",
     "sol": "images/320/sol.png",
-    "astra": null
+    "astra": "images/320/astra.png"
   },
   {
     "number": "321",
@@ -2365,7 +2365,7 @@
     "title": "A Set of Generalized Components to Achieve Effective Poison-only Clean-label Backdoor Attacks with Collaborative Sample Selection and Triggers",
     "original": "images/321/original.png",
     "sol": "images/321/sol.png",
-    "astra": null
+    "astra": "images/321/astra.png"
   },
   {
     "number": "322",
@@ -2373,7 +2373,7 @@
     "title": "Fact-R1 Towards Explainable Video Misinformation Detection with Deep Reasoning",
     "original": "images/322/original.png",
     "sol": "images/322/sol.png",
-    "astra": null
+    "astra": "images/322/astra.png"
   },
   {
     "number": "323",
@@ -2381,7 +2381,7 @@
     "title": "Flex-Judge Text-Only Reasoning Unleashes Zero-Shot Multimodal Evaluators",
     "original": "images/323/original.png",
     "sol": "images/323/sol.png",
-    "astra": null
+    "astra": "images/323/astra.png"
   },
   {
     "number": "324",
@@ -2389,7 +2389,7 @@
     "title": "Generalizable, real-time neural decoding with hybrid state-space models",
     "original": "images/324/original.png",
     "sol": "images/324/sol.png",
-    "astra": null
+    "astra": "images/324/astra.png"
   },
   {
     "number": "325",
@@ -2397,6 +2397,6 @@
     "title": "Generalized Category Discovery under Domain Shift A Frequency Domain Perspective",
     "original": "images/325/original.png",
     "sol": "images/325/sol.png",
-    "astra": null
+    "astra": "images/325/astra.png"
   }
 ]

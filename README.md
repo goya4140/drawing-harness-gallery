@@ -1,6 +1,6 @@
 # Drawing Harness Gallery
 
-公开科研绘图效果展示：最新formal300数据集原图300张、v2.5.1 + gpt-6.1-sol/high结果300张、输入一致的gpt-6-astra/high结果75张。
+公开科研绘图效果展示：最新formal300数据集原图300张、v2.5.1 + gpt-6.1-sol/high结果300张、输入一致的gpt-6-astra/high结果300张。
 
 网页：https://goya4140.github.io/drawing-harness-gallery/
 
